@@ -1,5 +1,15 @@
-# Extraction-Cleaning-and-Integration-of-Product-Data-from-E-Commerce-Platforms
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pFJDQdzWB4SvonNfO6tM4A.png)
+
+<div align="center">
+<h1>Extraction-Cleaning-and-Integration-of-Product-Data-from-E-Commerce-Platforms</h1>
+<img src="https://img.shields.io/badge/Amazon-FF9900}?style=for-the-badge&logo=amazon&logoColor=white&color=orange" target="_blank"/>
+<img src="https://img.shields.io/badge/Aliexpress-FFBE00}?style=for-the-badge&logo=aliexpress&logoColor=white&color=blue" target="_blank"/>  
+<img src="https://img.shields.io/badge/Banggood-FFBE00}?style=for-the-badge&logo={}&logoColor=white&color=red" target="_blank"/> 
+</div>
+<hr>
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pFJDQdzWB4SvonNfO6tM4A.png" width="80%"/> 
+</div>
+
 
 
 <h2>Project</h2>
@@ -13,9 +23,6 @@
 <h3>Data Sources</h3>
 <p>
   The main data sources include Amazon, AliExpress, and Banggood.
-  <img src="https://img.shields.io/badge/Amazon-FF9900}?style=for-the-badge&logo=amazon&logoColor=white&color=orange" target="_blank"/>
-  <img src="https://img.shields.io/badge/Aliexpress-FFBE00}?style=for-the-badge&logo=aliexpress&logoColor=white&color=blue" target="_blank"/>  
-
 </p>
 
 <h3>Data Types to Extract</h3>
