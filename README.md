@@ -13,6 +13,9 @@
 <h3>Data Sources</h3>
 <p>
   The main data sources include Amazon, AliExpress, and Banggood.
+  <img src="https://img.shields.io/badge/Amazon-FF9900}?style=for-the-badge&logo=amazon&logoColor=white&color=orange" target="_blank"/>
+  <img src="https://img.shields.io/badge/Aliexpress-FFBE00}?style=for-the-badge&logo=aliexpress&logoColor=white&color=blue" target="_blank"/>  
+
 </p>
 
 <h3>Data Types to Extract</h3>
