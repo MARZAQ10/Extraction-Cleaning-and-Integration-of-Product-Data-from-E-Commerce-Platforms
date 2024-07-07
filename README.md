@@ -7,7 +7,7 @@
 </div>
 <hr>
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pFJDQdzWB4SvonNfO6tM4A.png" width="80%"/> 
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*pFJDQdzWB4SvonNfO6tM4A.png" width="60%"/> 
 </div>
 
 
